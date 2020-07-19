@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Centrum Kowalstwa Metaloplastyki CKM",
-    "currentPage": "index.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -908,7 +908,7 @@
         }
       ]
     },
-    "index.html": {
+    "ndex.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Galeria",
